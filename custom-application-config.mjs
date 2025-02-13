@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'retail-anz',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'cm73z7rel001mvw01g4envvu2',
+      url: 'https://discount-preview-mc.vercel.app/',
     },
   },
   headers: {
