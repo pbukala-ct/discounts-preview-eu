@@ -6,13 +6,13 @@ import { PERMISSIONS, entryPointUriPath } from './src/constants';
 const config = {
   name: 'Discounts Preview Calculator',
   entryPointUriPath,
-  cloudIdentifier: 'gcp-au',
+  cloudIdentifier: 'gcp-eu',
   env: {
     development: {
       initialProjectKey: 'retail-anz',
     },
     production: {
-      applicationId: 'cm73z7rel001mvw01g4envvu2',
+      applicationId: '1234',
       url: 'https://discount-preview-mc.vercel.app/',
     },
   },
